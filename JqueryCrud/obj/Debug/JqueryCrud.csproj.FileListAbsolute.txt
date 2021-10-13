@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2012\Projects\JqueryCrud\JqueryCrud\bin\JqueryCrud.dll
+c:\users\dell\documents\visual studio 2012\Projects\JqueryCrud\JqueryCrud\bin\JqueryCrud.pdb
+c:\users\dell\documents\visual studio 2012\Projects\JqueryCrud\JqueryCrud\bin\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2012\Projects\JqueryCrud\JqueryCrud\bin\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2012\Projects\JqueryCrud\JqueryCrud\obj\Debug\JqueryCrud.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\JqueryCrud\JqueryCrud\obj\Debug\JqueryCrud.dll
+c:\users\dell\documents\visual studio 2012\Projects\JqueryCrud\JqueryCrud\obj\Debug\JqueryCrud.pdb
